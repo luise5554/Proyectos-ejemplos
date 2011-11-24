@@ -10,5 +10,6 @@ public class AActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         ///cambiado por luise455
+        //cambiado por luise5554
     }
 }
