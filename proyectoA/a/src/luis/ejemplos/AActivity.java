@@ -9,5 +9,6 @@ public class AActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+        ///cambiado por luise455
     }
 }
