@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class AActivity extends Activity {
     /** modificado en luise455. otra vez y otra*/
-    /* ahora desde 5554*/
+    /* ahora desde 5554 y otra vez*/
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
