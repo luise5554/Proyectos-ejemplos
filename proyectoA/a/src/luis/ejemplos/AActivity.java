@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 
 public class AActivity extends Activity {
-    /** Called when the activity is first created. */
+    /** modificado en luise5554. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
